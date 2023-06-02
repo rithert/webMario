@@ -732,7 +732,7 @@ video {
 }
 
 .bg-character-mario {
-  background-image: url('./src/img/character-l.png');
+  background-image: url('/src/img/character-l.png');
 }
 
 .bg-patterns-ch-red {
