@@ -4,13 +4,12 @@ module.exports = {
     theme: {
         extend: {
             backgroundImage: {
-                "wave-form": "url('/src/img/wave-white.png')",
-                "wave-patterns-dots": "url('/src/img/pattern-white-dots.png')",
-                "wave-pink": "url('/src/img/wave-pink.png')",
-                /* "character-mario": "url('/src/img/character-l.png')", */
-                "patterns-ch-red": "url('/src/img/pattern-characters-red.png')",
-                "patterns-yellow-dots":
-                    "url('/src/img/pattern-yellow-dots.png')",
+                "wave-form": "url('/src/img/olablanca.png')",
+                "wave-patterns-dots": "url('/src/img/dotsblanco.png')",
+                "wave-pink": "url('/src/img/olarosa.png')",
+                "character-mario": "url('/src/img/mario.png')",
+                "patterns-ch-red": "url('/src/img/fondorojo.png')",
+                "patterns-yellow-dots": "url('/src/img/dotsamarillos.png')",
             },
         },
     },

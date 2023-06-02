@@ -731,28 +731,28 @@ video {
   background-color: rgb(255 255 255 / var(--tw-bg-opacity));
 }
 
-.bg-\[url\(\'\/src\/img\/character-l\.png\'\)\] {
-  background-image: url('/src/img/character-l.png');
+.bg-character-mario {
+  background-image: url('/src/img/mario.png');
 }
 
 .bg-patterns-ch-red {
-  background-image: url('/src/img/pattern-characters-red.png');
+  background-image: url('/src/img/fondorojo.png');
 }
 
 .bg-patterns-yellow-dots {
-  background-image: url('/src/img/pattern-yellow-dots.png');
+  background-image: url('/src/img/dotsamarillos.png');
 }
 
 .bg-wave-form {
-  background-image: url('/src/img/wave-white.png');
+  background-image: url('/src/img/olablanca.png');
 }
 
 .bg-wave-patterns-dots {
-  background-image: url('/src/img/pattern-white-dots.png');
+  background-image: url('/src/img/dotsblanco.png');
 }
 
 .bg-wave-pink {
-  background-image: url('/src/img/wave-pink.png');
+  background-image: url('/src/img/olarosa.png');
 }
 
 .bg-contain {
