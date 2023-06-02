@@ -741,11 +741,11 @@ video {
 }
 
 .bg-character-mario {
-    background-image: url("/src/img/mario.png");
+    background-image: url("/img/mario.png");
 }
 
 .bg-patterns-ch-red {
-    background-image: url("/src/img/fondorojo.png");
+    background-image: url("/img/fondorojo.png");
 }
 
 .bg-patterns-yellow-dots {
